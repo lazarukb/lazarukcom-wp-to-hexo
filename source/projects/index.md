@@ -16,9 +16,10 @@ I was the primary Python programmer on this project. Having no previous experien
 
 The bulk of the original development work was performed with a private GitHub repository.
 
-![](/vplan-contrib.png)
-
-Contributions to the vPlan private repository on GitHub.
+<figure>
+    <img src="/vplan-contrib.png" width="736">
+    <figcaption>Contributions to the vPlan private repository on GitHub.</figcaption>
+</figure>
 
 Roberts, J. O., Mastorakis, G., Lazaruk, B., Franco, S., Stokes, A. A., & Bernardini, S. (2021). vPlanSim: An Open Source Graphical Interface for the Visualisation and Simulation of AI Systems. _Proceedings of the International Conference on Automated Planning and Scheduling_, _31_(1), 486-490. Retrieved from https://ojs.aaai.org/index.php/ICAPS/article/view/15995
 
@@ -34,9 +35,10 @@ Gradez is an undergraduate group project that I contributed to as part of the Un
 
 [Live Site](https://www.gradez.fun)
 
-![](/gradez.jpeg)
-
-Screenshot of the live Gradez site deployed to Azure, from 2021.
+<figure>
+    <img src="/gradez.jpeg" width="383">
+    <figcaption>Screenshot of the live Gradez site deployed to Azure, from 2021.</figcaption>
+</figure>
 
 ## Google Coding Challenge  
 Bright Network Internship Experience UK
@@ -57,33 +59,52 @@ For the University of London [level 5 course Programming with Data](https://lond
 
 I used coding techniques that cached the actual speech data locally to reduce the number of times the source websites were being scraped. Data cleaning was performed programmatically on each execution of the relevant cells in the notebook.
 
-![](/ds-project-review.png)
-
-For this project I used several Python libraries including beautifulsoup, pypandoc, nltk, langdetect, and vaderSentiment-fr. As some of the speeches contained or were entirely in French it was necessary to detect those sentence tokens with langdetect and pass them through the French language sentiment analyzer.
+<img src="/ds-project-review.png" width="192" align="right">For this project I used several Python libraries including beautifulsoup, pypandoc, nltk, langdetect, and vaderSentiment-fr. As some of the speeches contained or were entirely in French it was necessary to detect those sentence tokens with langdetect and pass them through the French language sentiment analyzer.
 
 I received an 86% on this project, on the UK grading scale. Although exact conversions are not published my research suggests that this would be equivalent to approximately 94% at a Canadian university. The evaluator concluded "This is an excellent project. The data capture and cleanup is extensive and well-executed. The code and narrative are clear and well laid out. The analysis is thorough and your journey of discovery is clear."
 
 I cannot release the source code as it was a graded project.
 
-![](/pwd-cells.png)
-
-Jupyter Cells Screenshot
-
-![](/pwd-histogram.png)
-
-Histogram Plot Screenshot
-
-![](/pwd-pandas.png)
-
-pandas DataFrame Screenshot
-
-![](/pwd-boxplot.png)
-
-Box Plot Screenshot
-
-![](/pwd-pairplot.png)
-
-Pair Plot Screenshot
+<div>
+    <table>
+        <tr>
+            <td>
+                <figure>
+                    <img src="/pwd-cells.png" width="360">
+                    <figcaption>Jupyter Cells Screenshot</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="/pwd-histogram.png" width="360">
+                    <figcaption>Histogram Plot Screenshot</figcaption>
+                </figure>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <figure>
+                    <img src="/pwd-pandas.png">
+                    <figcaption>pandas DataFrame Screenshot</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="/pwd-boxplot.png">
+                    <figcaption>Box Plot Screenshot</figcaption>
+                </figure>
+            </td>
+        </tr>
+        <tr>            
+            <td colspan="2">
+                <figure>
+                    <img src="/pwd-pairplot.png">
+                    <figcaption>Pair Plot Screenshot</figcaption>
+                </figure>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ## Undergraduate Programming Project 2
 
@@ -99,25 +120,44 @@ The most extensive of the visualizations was a custom one which took a downloade
 
 I received 92% for this project. I cannot release the source code as it was a graded project.
 
-![](/itp2-needles.png)
-
-ITP2 Project Screenshot
-
-![](/itp2-word-bubbles.png)
-
-ITP2 Project Screenshot
-
-![](/itp2-ridge.png)
-
-ITP2 Project Screenshot
-
-![](/itp2-fireworks.png)
-
-ITP2 Project Screenshot
-
-![](/itp2-elevation.png)
-
-ITP2 Project Screenshot
+<div>
+    <table>
+        <tr>
+            <td colspan="2">
+                <figure>
+                    <img src="/itp2-needles.png" width="228">
+                    <figcaption>ITP2 Project Screenshot</figcaption>
+                </figure>
+            </td>
+            <td colspan="2">
+                <figure>
+                    <img src="/itp2-word-bubbles.png" width="228">
+                    <figcaption>ITP2 Project Screenshot</figcaption>
+                </figure>
+            </td>
+            <td colspan="2">
+                <figure>
+                    <img src="/itp2-ridge.png" width="228">
+                    <figcaption>ITP2 Project Screenshot</figcaption>
+                </figure>
+            </td>
+        </tr>
+        <tr>            
+            <td colspan="3">
+                <figure>
+                    <img src="/itp2-fireworks.png">
+                    <figcaption>ITP2 Project Screenshot</figcaption>
+                </figure>
+            </td>
+            <td colspan="3">
+                <figure>
+                    <img src="/itp2-elevation.png">
+                    <figcaption>ITP2 Project Screenshot</figcaption>
+                </figure>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ## Undergraduate Programming Project 1
 
@@ -127,6 +167,7 @@ This was my first significant experience with JavaScript and my introduction to 
 
 I received 100% for this project. I cannot release the source code as it was a graded project.
 
-![](/itp1-bradlazaruk-1.png)
-
-ITP1 Project Screenshot
+<figure>
+    <img src="/itp1-bradlazaruk-1.png" width="736">
+    <figcaption>ITP1 Project Screenshot</figcaption>
+</figure>
