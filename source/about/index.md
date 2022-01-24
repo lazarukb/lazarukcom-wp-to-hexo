@@ -6,9 +6,7 @@ comments: false
 permalink: /
 ---
 
-![](/IMG_20210614_102619-2.jpg)
-
-Hi. I am most recently a technical solutions manager, based in Calgary, Alberta and working with clients throughout Canada. I have extensive experience with helping customers identify technology and business requirements as well as leading cross-functional teams of engineers and architects in designing innovative solutions at minimal cost. My work has included private sector and public sector organizations.
+<img src="/IMG_20210614_102619-2.jpg" width="332" align="right"> Hi. I am most recently a technical solutions manager, based in Calgary, Alberta and working with clients throughout Canada. I have extensive experience with helping customers identify technology and business requirements as well as leading cross-functional teams of engineers and architects in designing innovative solutions at minimal cost. My work has included private sector and public sector organizations.
 
 I hold a valid Canadian Level II Secret security clearance.
 
@@ -41,16 +39,17 @@ I can be reached at [brad@lazaruk.com](mailto:brad@lazaruk.com)
 ## Certifications and Professional Development
 
 View my 34 badges on Credly: [https://www.credly.com/users/brad-lazaruk/badges](https://www.credly.com/users/brad-lazaruk/badges)
-
-[![](https://images.credly.com/size/340x340/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/88d45958-9fd8-40c7-b457-a21c7c03df97)
-
-[![](https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](https://www.credly.com/badges/e7ed93b8-9995-4c7b-9d85-8fe681284707)
-
-[![](https://images.credly.com/size/340x340/images/4a5f4849-54ae-461f-97ad-cb9c9a04eb63/Adv_Data_Science_Specialization.png)](https://www.credly.com/badges/3ea49bea-55e0-49ac-8042-de0fd3a17829)
-
-[![](/badge44337.png)](https://app.exeed.pro/holder/badge/44337)
-
-[![](https://images.credly.com/size/340x340/images/98991f46-4c06-4f8b-a3ff-02a7e8768bb2/Google_Certs_IT.png)](https://www.credly.com/badges/8d5bbf2d-f8c8-4a55-b817-6feaa12a7896)
+<div>
+    <table>
+        <tr>
+            <td><a href="https://www.credly.com/badges/88d45958-9fd8-40c7-b457-a21c7c03df97"><img src="https://images.credly.com/size/340x340/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" width="122"></a></td>
+            <td><a href="https://www.credly.com/badges/e7ed93b8-9995-4c7b-9d85-8fe681284707"><img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" width="122"></a></td>
+            <td><a href="https://www.credly.com/badges/3ea49bea-55e0-49ac-8042-de0fd3a17829"><img src="https://images.credly.com/size/340x340/images/4a5f4849-54ae-461f-97ad-cb9c9a04eb63/Adv_Data_Science_Specialization.png" width="122"></a></td>
+            <td><a href="https://app.exeed.pro/holder/badge/44337"><img src="/badge44337.png" width="122"></a></td>
+            <td><a href="https://www.credly.com/badges/8d5bbf2d-f8c8-4a55-b817-6feaa12a7896"><img src="https://images.credly.com/size/340x340/images/98991f46-4c06-4f8b-a3ff-02a7e8768bb2/Google_Certs_IT.png" width="122"></a></td>
+        </tr>
+    </table>
+</div>
 
 Selected Coursera certificates, a comprehensive list is available on my [LinkedIn profile](https://www.linkedin.com/in/bradlazaruk/):
 
